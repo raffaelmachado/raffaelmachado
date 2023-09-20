@@ -1,10 +1,23 @@
-Meu nome é Raffa
+sobre mim
+
+
+
+
+
+
+
+
+
+
+
+
+-Meu nome é Raffa
 
 -Estou estudando na [alura](https://www.alura.com.br/) 
 
 
 
--Estou me desenvolvendo na linguagem JavaScript
+-stou me desenvolvendo na linguagem JavaScript
 
 
 
