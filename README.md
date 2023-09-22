@@ -17,7 +17,7 @@ sobre mim
 
 
 
--stou me desenvolvendo na linguagem JavaScript
+-Estou me desenvolvendo na linguagem JavaScript
 
 
 
